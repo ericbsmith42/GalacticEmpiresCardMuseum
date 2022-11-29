@@ -1,0 +1,167 @@
+
+63	A1 Lesser Automaton
+63	A1 Millennia Molting
+60	A2 Hand-Held Weapon
+63	A2 Logic
+51	A3 Tri-Millennia Molting
+60	B1 Commercial Outpost
+62	B1 Planetary Shield
+66	B2 Ancient Ruins
+63	B2 Fighter Garrison
+52	B3 Power Generation Platform
+61	B3 Repair Station
+65	B3 Space Station
+53	B4 Base Station
+69	B4 Planetary Phaser Base
+64	B4 Research Base
+51	B5 Administrative Facility
+58	T/B5 Vektrean Asteroid Outpost
+50	B6 Battlestation
+52	R/C1 Bar Tender
+79	C1 Boarding Party
+54	C1 Confidential First Chief Executive Deputy Assistant to the..... - Ditto
+73	R/C1 Crewman
+56	C1 Sysop
+58	C2 Cyber-Programmer
+53	C2 Ensign
+61	C2 Helmsman
+62	C2 Mercenary
+57	C2 Ordnance Officer
+66	C3 Nurse
+53	C3 Technician
+55	C4 Boarding Party
+63	C4 Bounty Hunter
+62	C4 Corrupt Politician
+52	C4 Cyber Mage
+72	R/C4 Marine
+52	C4 Navigator
+60	R/C4 Security Officer
+52	C4 Spiritual Leader
+61	C4 Teamster
+59	C5 Communications Officer
+51	R/C6 Damage Control Team
+50	C6 Mercenary
+51	R/C6 Science Officer
+58	R/C6 Spy
+55	R/C7 Doctor
+59	E1 Cargo
+56	E1 Escape Pod
+71	E1 Explosive Mine
+64	R/E1 False Mine
+72	E1 Fuser Mechanism
+64	E1 Probe
+69	E1 Shield Refit
+72	E2 Nuclear Mine
+82	E2 Phaser Refit
+80	R/E2 Transporter
+61	E3 Cargo
+63	E3 Engine Synchronization
+50	E3 Heavy Shield Refit
+79	E3 Heavy Weapon Refit
+51	E3 Reserve Power
+53	R/E3 Shuttlecraft
+58	R/E4 Anti-Tractor
+84	E4 Heavy Phaser Refit
+73	R/E4 Heavy Shuttlecraft
+65	E4 Shuttle Bomb
+67	H1 Divergent Anomaly
+66	H1 Dust Cloud
+68	H2 Gravity Wave
+71	H2 Ion Storm
+52	H2 Meteor Shower
+95	T/H2 Plasma Field
+60	H2 Supersonic Flow
+64	H3 Pulsar
+54	H3 Quasar
+63	H3 Radioactive Dust Cloud
+58	H3 Small Minefield
+68	H4 Warp Funnel
+62	H5 EM Burst
+53	H5 Ion Storm
+73	R/L1 Lucky Crew Action
+50	R/L2 Malpractice
+53	R/L2 Phaser Malfunction
+50	L2 Warp Engine Breach
+58	L3 Lucky Targeting
+69	L3 Pirate's Cache
+59	R/L3 Transporter Malfunction
+60	L4 Cursed Alien Artifact
+62	R/L4 Shuttle Malfunction
+59	R/L4 Unsuccessful Minesweeping
+50	R/L5 Defensive Override
+65	R/M1 Sextaraan Web Crawlers
+72	M1 Small Phaser Eel
+67	M2 Planet Gouge
+72	M2 Snare Vines
+66	M2 Space Vertigo
+58	M3 Alien Parasites
+67	M3 Invinco Guardian
+55	M3 Scandig Blob
+61	M3 Shadow
+73	M3 Shield Fiend
+64	M4 Sirens
+61	M4 Space Dragon
+51	R/M4 Time Keeper
+54	M5 Astromorph
+52	M5 Occumbus
+51	M5 Zarom
+54	O1 Breakdown
+67	O1 Illness
+52	R/O1 Intercept Action
+67	R/O1 Sun Spot
+55	O2 Comet Impact
+75	O2 Gold Vein
+63	O2 Injury
+66	O2 Natural Disaster
+53	O2 Serious Hull Breach
+60	O2 Space Debris
+60	O3 Early Warning Beacon
+54	O3 Forced Retreat
+66	O3 Illness - Aldibrik Ailment
+75	O3 Offensive Electronic Warfare
+70	R/O3 Offensive/Defensive Electronic Warfare
+57	O3 Wandering Desire
+54	O4 Flood
+62	O4 Information Leak
+60	O4 Love Interest
+52	O5 Derelict Spacecraft
+65	O5 Illness
+59	O5 Pirate Activity
+57	O6 Broken Supply Lines
+62	O6 Injury
+53	R/O8 Alien Love Interest
+68	R/S1 Ship from the Future
+58	S1 Time Ship
+66	S2 Independent Freighter
+61	S2 Space Yacht
+59	S3 Independent Pirate Ship
+53	S4 Independent Pirate Ship
+59	S5 Ore Carrier
+68	S6 Garbage Scow
+66	S3 Indirigan Escort - Indirigan Nomads Escort
+51	S3 Indirigan Light Carrier
+68	S4 Indirigan Frigate - Indirigan Nomads Frigate
+105	S5 Indirigan Destroyer - Indirigan Nomads Destroyer
+95	S5 Vektrean Heavy Cruiser
+58	T/B5 Vektrean Asteroid Outpost
+148	T1 Captured Satellite
+76	T2 Comet - Biruk's Comet
+68	T2 Ionized Particle Field
+95	T/H2 Plasma Field
+80	T3 Armory Moon
+65	T3 Asteroid Belt - Benakis Asteroid Belt
+78	T3 Dragon Hole
+67	T3 Moon
+59	T3 Ore Moon
+68	T3 Periodic Comet - Rom's Comet
+69	T3 Planet - Sigry III
+139	T4 Planet - Podekkur Prime
+132	T4 Small Planet - Bolaar IV
+137	T4 Small Planet - Siobhan-7
+82	T4 Small System - Rabuff Locttoor
+135	T5 Planet - Candor II
+79	T5 Planet - Jnaphahr
+50	T5 Planet - Vektrea Prime
+184	T5 Small System - Hcsuar-Drahcir System
+141	T5 Small System - The Cramannerak System
+54	T6 Comet - Sochess Comet

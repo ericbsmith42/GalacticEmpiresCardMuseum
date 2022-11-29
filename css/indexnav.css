@@ -1,0 +1,101 @@
+.spacer {
+	background-image: url(../images/starfield.jpg);
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:250px;
+	background-color: #000000;
+	color:white;
+	z-index:0;
+}
+
+.sidenav:hover {
+	height: 520px;
+	max-height: 100%;
+}
+.sidenav {
+    position: fixed;
+    z-index: 1;
+    width: 175px;
+	height: 25px;
+	top: 0;
+    right: 0;
+	background-image: url("../images/starfield.jpg");
+	background-color: Black;
+	margin: 0 auto;
+	font-size: 1rem;
+	text-align: center;
+    overflow-x: hidden;
+	overflow: hidden;
+	padding: 0px 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition: 0.5s;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+    border-radius: 30px;
+}
+
+.navindex {
+
+    z-index: 0;
+	top: 0;
+	background-image: url("../images/starfield.jpg");
+
+}
+
+@media print
+{    
+    .noprint, .noprint *
+    {
+        display: none !important;
+    }
+}
+
+
+.clearfix {
+    float: left;
+	clear: both;
+}
+.sidenavtable {
+    z-index: 1;
+    overflow-x: hidden;
+	overflow: hidden;
+	padding: 5px 0;
+	padding-left: 20px;
+	padding-right: 20px;
+    border-radius: 30px;
+	transition: 0.5s;
+	float:center;
+	clear: both;
+	font-weight: bold;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+}
+
+
+.whitetable {
+	font-size: 1.5rem;
+	font-weight: bold;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #white;
+}
+
+.sidenav a {
+    text-decoration: underline;
+    font-size: 1.4rem;
+	color: #00FFFF;
+}
+
+.sidenav a:hover {
+    color: #FF0000;
+}
+
+@media screen and (max-width: 400px) {
+	.sidenav:hover {
+		width: 80vw;
+	}
+}

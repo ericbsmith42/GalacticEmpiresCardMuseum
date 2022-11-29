@@ -1,0 +1,703 @@
+Set  Type   Title
+----------------------------------------------------------
+Pro  A1     Aestheticism
+GI   R/A1   Personal Transportation
+CC   A1     Steak Sauce ("Hope I don't get dragon…)
+CC   R/A2   Speaking Part ("My head's stuck")
+CC   A3     Admiral's Rear ("To the moon Alice,…)
+GI   A3     Eclipse Position
+Pro  R/A3   Emergency Medical Technician
+Per  R/A3   Indirigan Tattoo
+GI   A3     Primitive Society
+CC   A4     Chakan's Hat (The Hat makes the man.)
+GI   A4     Hostile Environ Automaton
+GI   A4     Officer Training
+Per  A4     Perfect Specimen
+Per  R/A4   Secret Agent Alien
+GI   R/A4   Sneak Attack
+GI   A4     Solar Flare
+GI   A4     Tranquility
+GI   A4     War Effort
+Pro  A5     Communications Training
+GI   A5     Eclipse Position
+GI   A5     Solar Corona (Mix 2 parts tequila with lemon…)
+GI   A5     Solar Corona (Mix 2 parts tequila, 1 part vodka…)
+Per  A5/5   Time Knight's Scepter
+Pro  A5     Wizard's Ring
+Per  A6     Breeder
+Pro  A6     Dragon Marksman
+Pro  A6     Security Background
+GI   A6     Senior Officer Training
+GI   R/A7   Personal Transportation
+GI   A7     Solar Disk
+GI   A7     Spiritual Familiar
+Per  A8     Quicksand
+Per  A8     Royal Indirigan Tattoo
+Pro  A10    Urban Influence
+CC   B1     Eat at Joe's ("There's a cybermite…)
+AL   B1     Planetary Shield
+AL   B2     Defensive Satellites (Planet Left)
+AL   B2     Defensive Satellites (Planet Right)
+Pro  B2     Espionage Platform
+GI   B3     Biodome
+Pro  B3     Secret Research Base
+AL   B3     Space Station
+AL   B4     Base Station
+PE   B4     Base Station (Small Text)
+AT   B4     Border Station
+GI   B4     Flight School
+Pro  B4     Union Hall
+Pro  B5     Dog House
+Pro  B5     Growing Economy
+GI   B5     Isolated Base
+GI   B5     Penal Corrective Station
+Pro  B5     The House of Cards
+GI   B6     Castle Rognar
+GI   B6     Cloning Station
+Pro  B6     Psy Temple
+Pro  B6     Science Academy
+Pro  B7     Artist's Refuge
+Pro  B7     Collector's Library
+GI   B7     Defender Base
+GI   B7     P.O.T. Centaurian Base
+GI   B8     Corporate Economic Base
+GI   B8     Heavy Defender Base - Defender Base
+Pro  B9     Custom Base - Planetary Shield
+CC   R/C1   Barmaid ("Hallooo Nurse!" - Wacko)
+GI   C1     Cadet
+GI   C1     Leopan Raiding Pilot
+CC   C1     Pizza Delivery Alien - P.D.A. ("Hey, I ordered extra…)
+Pro  C1     Portrait Artiste
+CC   C1     Used Spaceship Dealer - A.K.A. Bob ("It had only one owner,…)
+AL   R/C2   Doctor
+GI   C2     Leopan Raiding Pilot
+Pro  C3     Aerospace Procurement Officer
+Per  C3     Indirigan Female
+AL   R/C3   Science Officer
+BE   R/C3   Science Officer
+GI   C4     Base Engineer
+AL   C4     Fighter Pilot
+GI   C4     Intergalactic Terrorist
+CC   C4     Night Club Comedian ("So, I went to the optometrist…)
+Per  C4     Pioneer
+GI   C4     Secret Service Alien
+Pro  C4     War Veteran
+Pro  C5     Archeologist
+Per  C5     Cybernetic Engineer
+Pro  R/C5   Exogeologist
+Pro  C5     HQ Repair Team - Headquarter Repair Team
+Pro  C5     Indirigan Female
+Pro  R/C5   Marine-NCO
+GI   C5     Mystic
+Per  C5     Renegade Science Officer
+GI   R/C5   Rescue Specialist
+Per  C5     Senior Helmsman
+Pro  C5     Statistician
+Pro  C5     War Dog
+BE   C5     Weapons Officer (Scorpead)
+AL   C6     Captain
+PE   C6     Captain (1st Print)
+PE   R/C6   Commando (Small Text)
+Per  C6     Indirigan Chieftain - Licifrous
+Per  R/C6   Marine - Marine Major
+Per  C7     Indirigan Chieftain - Murinca
+Pro  C7     Indirigan Female
+Pro  C7     The Collector
+Per  C8     Chief Engineer
+Per  R/C8   Communication Supervisor
+Per  C8     First Sergeant
+Pro  C8     Freelance Purist
+Pro  C8     Indirigan Boarding Party
+Per  C8     Leopan Technologist
+Per  C8     Millionaire
+GI   C8     Mystic
+Per  R/C9   Grand Time Keeper - Sir Thomas Seth
+Per  C9     Indirigan Chieftain - Noaha
+GI   C9     Zedan Infiltrator
+Pro  C10    Andy Warphole
+Pro  C10    Battle Advisor
+Per  C10    War Prophet
+Pro  C10    War Veteran
+CC   36C    Buffy the Time Knight Slayer ("Hi Ho, Hi Ho, its off…)
+PE   D1     Dragon Hatchling (Large Text)
+PE   D1     Scintillating Dragoness (Large Text)
+Pro  D1     Tending Dragoness
+Pro  D2     Deans Drake
+PE   D4     Comet Dragoness (Large Text)
+Pro  D4     Patrol Dragoness
+Pro  D5     Sleeping Dragoness
+Pro  D5/5   Temporal Dragoness
+Pro  D6     Brood Dragoness
+Pro  D7     Crater Dragoness
+Pro  D7     Draconic Collector
+Pro  D7     Sculpting Dragoness
+AL   E1     Cargo
+Pro  E1     Dark Hand Patrol Fighter
+AL   E1     Krebiz Pseudo Capsule
+GI   E1     Observation Window
+Pro  E1     Paint Job
+GI   E1     Personal Fighter
+AL   E1     Probe
+AL   E1     Shield Refit
+CC   R/E2   Clown Car - Clown Car Shuttle ("Can we stop, I gotta…)
+Pro  R/E2   Intruder Alert System
+AL   E2     Phaser Refit
+GI   E2     Satellite D/R System
+AL   R/E2   Tractor Beam
+AL   R/E2   Transporter
+AL   E3     Heavy Shield Refit
+GI   E3     Ore Shuttle
+AL   R/E3   Shuttlecraft (Left)
+AL   R/E3   Shuttlecraft (Right)
+GI   E4     Energy Panels
+AT   E4     Fusion Mine
+AL   E4     Heavy Phaser Refit
+GI   E4     Sensor Mine
+GI   E4     Target Acquisition Link (Base)
+GI   E4     Target Acquisition Link (Unit)
+GI   E4     Thermographic Display (A Base)
+GI   E4     Thermographic Display (Only Base)
+GI   E4     Transgate Stabilizers
+Pro  R/E5   Aesthetic Fighter
+AL   R/E5   Fighter
+Per  E5     Phaser Targeting Refit
+Per  E5     Surface Probe
+GI   E5     Technical Readout (Base)
+GI   E5     Technical Readout (Ship)
+Per  E6     Assault Tank
+Pro  E6     Cleansing Ammunition
+Pro  E6     Control Matrix
+AL   E6     Deflection/Transfer Device (Bolaar)
+Pro  E6     Heavy Cargo Packs
+Pro  R/E6   Taxi Shuttle
+AL   E7     Argonian Strobe
+Pro  E7     Collector's Storage Case
+Pro  E8     Cleansing Device
+Pro  E8     Multi-purpose Phasers
+Per  E9     Adamantine Hull - Sound Construction
+Per  E9     Perpetual Motion Device
+Per  E10    Dark Circuitry
+Pro  G1     Spatial Manipulation
+Pro  G2     Prized Females
+GI   G3     Prisoners
+GI   G4     Leopan Capture Mission
+Pro  G7     Collect Things
+Pro  G8     Aesthetic Balance
+AL   H1     Time Warp
+AL   H2     Ion Storm
+AL   H3     Pulsar
+GI   H3     Space-Time Rift
+GI   H4     Global Lava
+AL   H4     Nova (Left)
+AL   H4     Nova (Right)
+GI   H4     Space-Time Rift
+GI   H4     Sublight Debris
+AL   H5     Ion Storm
+GI   H5     Quantum Flare
+CC   R/H5   Time Accelerant ("Man, this art is lame."…)
+Pro  H6     Auer's Isotope
+GI   H6     Star Spindle
+Pro  H6     Subspace Compression
+GI   H6     Surface Vortex
+AL   H6     Type II Supernova
+GI   H7     Sublight Debris
+Pro  H7     Time Tremor
+Pro  H9     Star Dance
+GI   H9     Star Spindle
+GI   H10    Extreme Conflict
+GI   I2     Tavern
+Pro  I4     Collector's Box
+GI   I4     Timeless City
+GI   I5     Leisure Station
+Pro  I5     Mint Bar & Grill
+Per  I6     Ixubermorth Citadel
+Per  I7     Ancient's Library
+CC   I1     Coffee House ("What's a nice girl…)
+CC   I1     Sign Post ("You can't get there…)
+CC   I2     Fast Food Franchise ("Please pull up to the…)
+CC   I2     Kitty Cat Club ("Here I come to save…)
+CC   I4     Captain's Bluff ("He's dead Katherine."…)
+CC   I4     Gentlealien's Club ("Cable guy…" - Mij Yerrac)
+CC   I6     Psychiatric Ward ("No, I'm Batman, I'm…)
+CC   I7     Clown College ("Where'd that *@&%$…)
+Pro  L1     Collector's Artifact - Wizard's Orb
+Pro  L5     Artifact - Galactic Paintbrush - Galactic Paintbrush
+AT   L5     Energy Flux
+CC   R/L5   Lucky Mime Explosion ("You're mission, should…)
+CC   R/L5   Unlucky Mime Explosion ("Huston we have a problem!")
+Pro  L6     Black Market
+Pro  L7     Artifact - Collector Toy
+Pro  L7     Unfortunate Accident
+Pro  L8     Altered Timeline
+Per  L8     Ancients Portal
+Per  L9     Artifact - Empire Constitution
+GI   L9     Parallel Timesight
+Pro  R/L9   Playtester Hallucination
+CC   L9     What's This Button For? (Earnest Goes to Space')
+Pro  M1     Aesthetic Creature
+GI   M1     Geko Gnats
+AL   M1     Small Phaser Eel
+GI   M2     Geko Gnats
+AF   R/M2   Ionized Phaser Eel
+AL   M2     Planet Gouge
+PE   M2     Planet Gouge (Large Text)
+Pro  M3     Aesthetic Monster
+AL   M3     Shield Fiend
+Pro  M3     Wizard's Familiar
+GI   M4     Andromeda Beast
+AL   M4     Space Dragon
+Pro  M5     Aesthetic Beast
+GI   M5     Boarding Beast
+AL   M5     Large Phaser Eel
+BE   M5     Large Phaser Eel
+Pro  R/M6   Artifact Critic
+AL   M6     Invinco Guardian
+Per  M6     Research Mandator
+Pro  R/M7   Aesthetic Fiend
+Pro  M7     Color Blind Painter
+GI   M8     Battalisk
+Per  M9     Prehistoric Space Beast
+AL   O1     Breakdown
+AL   O2     Illness
+BE   O2     Illness
+PE   O2     Serious Hull Breach (Small Text)
+AL   O3     Forced Retreat
+Pro  R/O4   Convoy Escort
+AL   O4     Injury
+CC   R/O4   Mime Intrusion ("You sent a mime for…)
+Pro  O4     Mutiny Ship
+AL   R/O4   Repair Delivery
+GI   O4     Starship Insurance
+Pro  R/O4   Strategic Deployment
+GI   R/O4   Temporary Insanity
+AL   O5     Breakdown
+GI   O5     Fighter Combat Training
+GI   R/O5   Fleet Maneuver
+AL   O5     Forced Retreat
+PE   O5     Illness (Large Text)
+GI   O5     Strafing Attack
+Pro  O5     Sudden Migration
+PE   O5     Wandering Desire (1st Print)
+GI   O6     Demotion
+PE   R/O6   Emergency Capsule Separation (1st Print)
+GI   R/O6   Surprise Maneuver
+GI   R/O6   Temporary Insanity
+Pro  O7     Grand Chieftain's Right of Trade
+Per  O7     Intergalactic Transgate
+AL   O7     Surprise Attack
+GI   O7     Vacation
+Per  O8     Galactic Depression
+GI   O8     Hallucinatory Space - Insanity - Hallucinatory Space
+Per  R/O9   Pendulum Defect
+Pro  P6     Psychotic Commandant
+Pro  Q1     Patrol Ship Factory
+Pro  Q2     Hydroponics Facility
+Pro  Q5     Long Range Transporters
+AL   S1     Fleet Freighter (Left)
+AL   S1     Fleet Freighter (Right)
+AL   S2     Fleet Tug
+PE   S2     Independent Freighter (1st Print)
+Pro  S3     White Ship
+GI   S4     Converted Freighter - War Ship
+Pro  S4     Tourist Ship
+Pro  S5     Emergency Fire Cruiser
+Pro  S5     Game Supply Carrier
+Pro  S5     Game Supply Ship - SS Luke & Dave (F.P.G. Inc.)
+Pro  S5     Game Supply Ship (Bart Abels 1/2)
+Pro  S5     Game Supply Ship (Bart Abels 2/2)
+Pro  S5     Game Supply Ship (C.C.R.)
+Pro  S5     Game Supply Ship (Comic Plus)
+Pro  S5     Game Supply Ship (Comicology)
+Pro  S5     Game Supply Ship (Companion Games)
+Pro  S5     Game Supply Ship (Damage Adjuster)
+Pro  S5     Game Supply Ship (DNA Andrew & Paul)
+Pro  S5     Game Supply Ship (Dragon Rider)
+Pro  S5     Game Supply Ship (Games Import)
+Pro  S5     Game Supply Ship (Gamesmasters)
+Pro  S5     Game Supply Ship (George Brown)
+Pro  S5     Game Supply Ship (Gopin's Grenadiers)
+Pro  S5     Game Supply Ship (Gopin's Grenadiers Distributing)
+Pro  S5     Game Supply Ship (Grosnor Sportscards Inc. 1/2)
+Pro  S5     Game Supply Ship (Loren Crabb)
+Pro  S5     Game Supply Ship (Multigenre Inc)
+Pro  S5     Game Supply Ship (Name Here)
+Pro  S5     Game Supply Ship (Neal Feldman)
+Pro  S5     Game Supply Ship (New York Hall of Science)
+Pro  S5     Game Supply Ship (Nick Sauer)
+Pro  S5     Game Supply Ship (Patricia Bieksha)
+Pro  S5     Game Supply Ship (PBM Express 1/2)
+Pro  S5     Game Supply Ship (PBM Express 2/2)
+Pro  S5     Game Supply Ship (Platinum Brothers)
+Pro  S5     Game Supply Ship (Rodney Johnson)
+Pro  S5     Game Supply Ship (Starbase One)
+Pro  S5     Game Supply Ship (Vincent Bieksha)
+Pro  S5     Game Supply Ship (War Dogs)
+Pro  S5     Intergalactic T-shirt Trader
+Pro  S5     Mathematical Ship
+Per  S5     Troop Freighter
+Pro  S6     Companion Games Flagship
+Pro  S6     Game Supply Smuggler
+GI   S7     Colony Ship
+Pro  S8     Ship of the Ancients
+GI   S9     Colony Ship
+UE   S10    Explosive Ore Carrier
+Pro  S10    Game Supply Ship (Alternative Cards Distribution)
+Pir  S10    Gohest's Pirate Ship - The Ghost Lord
+Pro  S1     Art Patrol
+Pro  S2     Aesthetic Escort
+Pro  S3     Sculptor
+Pro  S4     Aesthetic Express
+Pro  S5     Beautifier
+Pro  S/G6   Aesthetic Cruiser
+Pro  S7     Aesthetic Carrier
+Pro  S7     Art Critic
+Pro  S9     Deleter
+GI   B10/S6 Sun Base (Aqaaran)
+GI   S10/B6 Aqaaran Flagship
+AL   S3     Argonian Frigate - Argonian Sunspot Frigate (Right)
+PE   S4     Argonian Assault Carrier - Argonian Galestorm Assault Carrier (Large Text)
+AL   S4     Argonian Destroyer - Argonian Blizzard Destroyer
+PE   S4     Argonian Minesweeper - Argonian Sleet Minesweeper (Large Text)
+PE   S4     Argonian Scout Cruiser - Argonian Cumulonimbus Scout Cruiser (Large Text)
+AL   S5     Argonian Light Cruiser - Argonian Whirlwind Light Cruiser
+AL   S6     Argonian Heavy Cruiser - Argonian Typhoon Heavy Cruiser
+AL   S7     Argonian Battlecruiser - Argonian Hurricane Battlecruiser (Left)
+BE   S7     Argonian Battlecruiser - Argonian Hurricane Battlecruiser (Right)
+Pro  S7     Collector's Flagship
+Pro  S7     Command Cruiser - Grand Chieftains Tribe Cruiser (Grand Chieftain)
+Pro  S10    Intrepid Wanderer
+Pro  S7     Insipid Tribe Dreadnought - Damaged Dreadnought
+Pro  S2     Patrol Ship - Propagationist Tribe Patrol Ship
+Pro  S7     Violator's Pirate - Command Ship
+Pro  S8     Violator's Pirate - Dreadnought
+Pro  S9     Violator's Pirate - Battleship
+GI   S10    J'xar Flagship - J'x Excaliber Class Flagship
+GI   S6     Krebiz Light Defender (Mandible Light Cruiser / Defender Capsule)
+AL   S1     Krebiz Light Capsule
+AL   S1     Krebiz Medium Capsule
+PE   S1     Krebiz Science Capsule (1st Print)
+AL   S2     Krebiz Battle Capsule
+AL   S2     Krebiz Heavy Capsule
+AL   S2     Krebiz Clipper Frigate (Left)
+AL   S2     Krebiz Clipper Frigate (Right)
+AL   S3     Krebiz Pincer Destroyer
+AF   S2     Leopan Heavy Patrol Ship
+Pro  S1/9   Tranoan Patrol Ship
+Pro  S6/4   Tranoan Command Cruiser
+PE   S2     Vektrean Frigate (Large Text)
+PE   S3     Vektrean Destroyer (Large Text)
+AL   S4     Vektrean Light Cruiser
+PE   S4     Vektrean Light Cruiser (Large Text)
+PE   S5     Vektrean Heavy Cruiser (Large Text)
+GI   S1     Zedan Patrol Scout - ZDI Patrol Scout
+GI   S4     Zedan Minesweeper - ZDI Minesweeper
+Pro  T1     Helix Crystal
+GI   T1     Lagrange Point
+AL   T1     Large Asteroid
+AL   T1     Small Moon
+Pro  T/F2   Access Field
+AL   T2     Comet - Biruk's Comet
+GI   T2     Dark Mountain
+Pro  T2     Moon - Garden Moon
+Pro  T2     Planet - Loopy's Parking Garage
+AL   T/H2   Plasma Field
+AL   T2     Small Nebula - Kalin's Small Red Nebula
+Pro  T3     Asteroid - Explosive Asteroid
+AL   T3     Asteroid Belt - Benakis Asteroid Belt
+Pro  T3     Comet - Moore's Comet
+Pro  T3     Dog Pound - Custom Dog Pound
+GI   T3     Moon - Dimensional Moon
+Pro  T3     Moon - Espionage Moon
+AL   T3     Moon
+Pro  T3     Paradise
+Pro  T3     Planet - Custom Planet (Gopin's Grenadiers Distributing)
+Pro  T3     Planet - Custom Planet (Pastimes)
+Pro  T3     Space Vista
+Pro  T3     Star - Antimatter Star
+BE   T4     Indig's Comet
+GI   T4     Dark Mountain
+Pro  T4     Phillipo's Moon - Custom Phillipo's Moon
+Pro  T4     Planet - Custom Art Supply Depot
+Pro  T4     Planet - Planet of the Chaos Lords
+AL   T4     Small Moon - Aldibrik Munitions Plant
+AL   T4     Small Planet - Bolaar IV
+Pro  T4     Small Planet - Reactionary World
+GI   T4     Vacation Planet - Vacation Planet Golf World
+Pro  T4     White Dwarf
+Pro  T5     Aesthetic Twin
+Pro  T5     Dragon Nest - Ancient Dragon Nest
+Pro  T5     Hedge Maze
+AL   T5     Nebula - Homecloud Nebula
+Pro  T5     Network Repeater
+AL   T5     Planet - Candor II
+Pro  T5     Planet - Custom Planet (Jenkintown)
+Pro  T5     Planet - Custom Planet (PBM Express Logo)
+Pro  T5     Planet - Custom Planet (PBM Express Dragon)
+Pro  T5     Planet - Paradise
+AL   T5     Planet - Vektrea Prime
+Pro  T/F5   Positron Field
+AL   T5     Small System - The Cramannerak System
+Pro  T5     Storm World
+Pro  T5     Surrealia
+AL   T6     Asteroid Field
+AL   T6     Black Hole
+Pro  T6     Death World
+Per  T6     Filarian Moon - Infested Moon
+GI   T6     Nebula - Orion Nebula
+Pro  T6     New Albion
+Pro  T6     Phillipo's World - Custom Phillipo's World
+Pro  T6     Planet - Custom Planet (Pastime Planet)
+AL   T6     Planet - Vorn Ringed Gas Giant
+Per  T7     Moon - Scorpead Dominated Moon
+Pro  T7     Phillipovis - Custom Star Phillipovis
+Pro  T7     Planet - Custom Planet (Collectors World)
+Pro  T7     Planet - Custom Planet (Devastated World)
+Pro  T7     Planet - Custom Planet (Museum World)
+Pro  T7     Planet - Custom Planet (Pastimes)
+Per  T7     Planet - Krebiz Homeland
+Per  T7     Planetoid - Argonian Fighter Planetoid
+AL   T7     System - Argo
+Per  T7     System - Clydon System
+Pro  T7     System - Custom System (Collectors System)
+Per  T7     System - Vektrea System
+Pro  T/B7   Vektrean Asteroid Carrier
+Pro  T8     Planet - Custom Planet (Neal Feldman)
+Pro  T8     System - Aesthetic Marine Recruit Depot
+AL   T8     System - The Scandig System
+Pro  T9     Planet - Custom Planet (Gor's Planet)
+Pro  T9     Star - Massive Red Giant
+Per  T9     System - Corporate System
+Per  T/B10  Vektrean Asteroid Flagstar
+Pro  Spcl   100 Delic Note
+PE   Spcl   Dragons of Space (Front)
+Pro  Spcl   Carl H. Schulte Business Card
+Pro  Spcl   Marilyn Bordinaro Business Card
+GGB  B2     Fighter Garrison (Jägerstützpunkt)
+GGB  B3     Power Generation Platform (Energiegewinnungsplattform)
+GGB  B3     Repair Station (Reparaturstation)
+GGB  B4     Planetary Phaser Base (Planetare Phaserstellung)
+GGB  B4     Research Base (Forschungsstation)
+GGB  B5     Administrative Facility (Verwaltungsbasis)
+GGB  B6     Battlestation (Kampfstation)
+GGB  B7     Academy (Akademie)
+GGB  B8     Shipyard (Schiffswerft)
+GGB  B9     Starbase (Sternenbasis)
+GGB  C3     Nurse (Krankenschwester)
+GGB  C3     Technician (Techniker)
+GGB  C4     Boarding Party (Enterkommando)
+GGB  C4     Bounty Hunter (Kopfgeldjäger)
+GGB  C4     Corrupt Politician (Korrupter Politiker)
+GGB  R/C4   Marine (Marine)
+GGB  C4     Navigator (Navigator)
+GGB  R/C4   Security Officer (Sicherheitsoffizier)
+GGB  C4     War Veteran (Kriegsveteran)
+GGB  C5     Ambassador (Botschafter)
+GGB  R/C5   Mutineer (Meuterer)
+GGB  C5     Quartermaster (Quartiermeister)
+GGB  C5     Weapons Officer (Waffenoffizier)
+GGB  C6     Ancient Spacefarer (Alter Raumfahrer)
+GGB  C6     Base Commander (Basenkommandant)
+GGB  C6     Captain (Kapitän)
+GGB  C6     Clone (Klon)
+GGB  R/C6   Commando (Kommando)
+GGB  R/C6   Damage Control Team (Reparaturteam)
+GGB  C6     Mercenary (Söldner)
+GGB  C6     Operations Officer - Ops (Einsatzoffizier)
+GGB  R/C6   Science Officer (Wissenschaftsoffizier)
+GGB  R/C6   Spy (Spion)
+GGB  C6     Squadron Commander (Geschwaderkommandant)
+GGB  R/C7   Doctor (Arzt)
+GGB  C7     Mystic Wanderer (Geheimnisvoller Wanderer)
+GGB  C7     Reserve Commodore (Admiral der Reserve)
+GGB  C7     Saboteur (Saboteur)
+GGB  C8     Assassin (Assassine)
+GGB  C8     Commodore (Befehlshaber der Flotte)
+GGB  C8     Mechad Overlord (Mechadischer Overlord)
+GGB  C8     Rear Admiral (Konteradmiral)
+GGB  C9     Admiral (Admiral)
+GGB  C9     Indirigan Chieftain (Indirischer Häuptling)
+GGB  C10    Primordial Warrior (Urkrieger)
+GGB  C10    Scholar (Scholar)
+GGB  R/A1   False Mine (Minenattrappe)
+GGB  A1     Krebiz Armor (Krebische Panzerung)
+GGB  R/A2   Nuclear Mine (Nuklearmine)
+GGB  R/A2   Repulsion Beam (Blocker)
+GGB  R/A2   Transporter (Transporter)
+GGB  R/A3   Emergency Power (Notstromaggregat)
+GGB  A3     Heavy Shield Refit (Schwere Schilde)
+GGB  A4     Hangar Bay (Hangar)
+GGB  A4     Shuttle Bomb (Shuttlebombe)
+GGB  A4     Stellar Map (Sternenkarte)
+GGB  A4     Tram Refit (TRAKS)
+GGB  A5     Antimatter Mine (Antimateriemine)
+GGB  R/A5   Fighter (Jäger)
+GGB  A5     Volatile Cargo (Gefährliche Fracht)
+GGB  A6     Deflection/Transfer Device (Reflektorschirm)
+GGB  A6     Indirigan Repair Bay (Reparaturhangar)
+GGB  A6     Reserve Power (Reserveenergie)
+GGB  A6     Sabot Sequencer (Sabotverstärker)
+GGB  A6     Super Computer (Supercomputer)
+GGB  A6     Warp Field Destabilization Gun (Anti-Warpfeld-Geschütz)
+GGB  A7     Argonian Strobe (Argonischer Blender)
+GGB  A7     Mine Rack (Minenrampe)
+GGB  A8     Bolaar Phaser Capacitors (Bolaarische Phaserkondensatoren)
+GGB  A8     Fuser (Fusionsverstärkungssystem)
+GGB  A9     Distribution Nodes (Wandler)
+GGB  A9     Shroud (V-Schirm)
+GGB  A10    Subspace Stabilizers (Subraumstabilisatoren)
+GGB  H1     Divergent Anomaly (Divergierende Anomalie)
+GGB  H1     Time Warp (Zeitsprung)
+GGB  H2     Meteor Shower (Meteroitenschauer)
+GGB  H3     Pulsar (Pulsar)
+GGB  H4     Nova (Nova)
+GGB  H4     Warp Funnel (Warptrichter)
+GGB  H6     Crab Pulsar (Doppelpulsar)
+GGB  H6     Large Minefield (Großes Minenfeld)
+GGB  H6     Type II Supernova (Riesige Supernova)
+GGB  H7     Antimatter Singularity (Antimateriequelle)
+GGB  H7     Maelstrom (Mahlstrom)
+GGB  H8     Gravity Pocket (Gravitationsfalte)
+GGB  H9     Dimensional Portal (Dimensionsportal)
+GGB  H10    Akru Supernova (Akru Supernova)
+GGB  R/Z2   Phaser Malfunction (Phaserfehlfunktion)
+GGB  Z2     Warp Engine Breach (Antriebsverschleiß)
+GGB  Z3     Pirate's Cache (Piratenversteck)
+GGB  R/Z3   Repair Malfunction (Fehlreparatur)
+GGB  Z4     Cursed Alien Artifact (Verfluchtes Alienartefakt)
+GGB  Z4     Lucky Shield Repair (Ungewöhnliche Schildreparatur)
+GGB  R/Z4   Miscommunications (Mißverständnis)
+GGB  Z4     Navigational Error (Navigationsfehler)
+GGB  R/Z4   Shuttle Malfunction (Shuttlefehlfunktion)
+GGB  Z4     Unsuccessful Minesweeping (Erfolglose Minenräumung)
+GGB  R/Z5   Defensive Override (Schutzprogrammierung)
+GGB  R/Z6   Lucky Maneuver (Geglücktes Manöver)
+GGB  Z7     Alien Artifact (Alienartefakt)
+GGB  R/Z7   Anomaly Portal (Anomalienportal)
+GGB  Z7     Expeditious Reserves (Sofortige Reserve)
+GGB  R/Z8   Advanced Preparedness (Erhöhte Einsatzbereitschaft)
+GGB  R/Z8   Demigod Diversion (Göttlicher Einhalt)
+GGB  R/Z8   Targeting Error (Falsche Zielansprache)
+GGB  Z9     Accelerated Timeline (Beschleunigter Zeitfluß)
+GGB  Z9     Lost Fleet (Verschollene Flotte)
+GGB  M1     Research Defiler (Forschungsschänder)
+GGB  M2     Space Vertigo (Raumwölkchen)
+GGB  M3     Alien Parasites (Unbekannte Parasiten)
+GGB  M3     Invinco Guardian (Unsichtbarer Wächter)
+GGB  M3     Shadow (Schatten)
+GGB  M4     Space Dragon (Space Dragon)
+GGB  M4     Spacetacean (Raumtazean)
+GGB  M5     Astromorph (Astromorph)
+GGB  M5     Large Phaser Eel (Großer Phaseraal)
+GGB  M5     Ship Mimic (Schiffsimitator)
+GGB  M5     Zarom (Zarom)
+GGB  M6     Mind Control Beast (Geistesbeherrscher)
+GGB  M6     Scentari Snails (Scentarischnecken)
+GGB  M6     Shuttle Eater (Shuttlefresser)
+GGB  M7     Juggernaut (Moloch)
+GGB  M7     Tri-lateral Textangula (Trilaterale Textangula)
+GGB  M9     Kraken (Krake)
+GGB  R/M9   Luck Demon (Glücksdämon)
+GGB  E1     Illness (Krankheit)
+GGB  E3     Bureaucracy (Bürokratie)
+GGB  E3     Forced Retreat (Erzwungener Rückzug)
+GGB  R/E3   Offensive/Defensive Electronic Warfare (Offensive/Defensive Elektronische Kriegsführung)
+GGB  E4     Information Leak (Informationsleck)
+GGB  E4     Love Interest (Liebesaffäre)
+GGB  R/E4   Repair Delivery (Instandsetzung)
+GGB  E5     Breakdown (Totalausfall)
+GGB  E5     Derelict Spacecraft (Raumschiffswrack)
+GGB  R/E5   Evasive Maneuvers (Ausweichmanöver)
+GGB  E5     Illness (Krankheit)
+GGB  E5     Insanity (Wahnsinn)
+GGB  E5     Pirate Activity (Piratenaktivität)
+GGB  R/E5   Tactical Retreat (Taktischer Rückzug)
+GGB  E5     Terraforming (Terraformung)
+GGB  E5     Wandering Desire (Fernweh)
+GGB  E6     Alien Abduction (Entführung durch Aliens)
+GGB  R/E6   Emergency Capsule Separation (Nottrennung)
+GGB  E6     Injury (Verletzung)
+GGB  E7     Capital Revitalization (Finanzrückführung)
+GGB  E7     Forced Retreat (Erzwungener Rückzug)
+GGB  R/E7   Scientific Breakthrough (Wissenschaftlicher Durchbruch)
+GGB  E7     Surprise Attack (Überraschungsangriff)
+GGB  R/E8   Alien Love Interest (Liebesaffäre Mit Einem Alien)
+GGB  E8     Computer Virus (Computervirus)
+GGB  E8     Economic Crisis (Wirtschaftskrise)
+GGB  R/E8   Emergency Damage Control (Notreparatur)
+GGB  E8     Plague (Seuche)
+GGB  E8     Planetary Revolt (Planetare Revolte)
+GGB  E8     Self Destruction (Selbstzerstörung)
+GGB  E8     Technological Breakthrough (Technologischer Durchbruch)
+GGB  E9     Alliance Treaty (Bündnisvertrag)
+GGB  E9     Illness (Krankheit)
+GGB  E10    Planetary Destruction (Planetenzerstörung)
+GGB  S1     Fleet Freighter (Flottenfrachter)
+GGB  S2     Fleet Tug (Flottenschlepper)
+GGB  S3     Independent Tug (Unabhängiger Schlepper)
+GGB  S4     Independent Pirate Ship (Unabhängiges Piratenschiff)
+GGB  S4     Local Police Ship (Ortliches Polizeischiff)
+GGB  S5     Ore Carrier (Erzfrachter)
+GGB  S6     Luxury Liner (Luxusliner)
+GGB  S4     Argonian Blizzard Destroyer (Argonischer Zerstörer der Blizzard-Klasse)
+GGB  S4     Argonian Cumulonimbus Scout Cruiser (Argonischer Scoutkreuzer der Cumulonimbus-Klasse)
+GGB  S4     Argonian Sleet Minesweeper (Argonischer Minenräumer der Schnee-Klasse)
+GGB  S6     Argonian Typhoon Heavy Cruiser (Schwerer Argonischer Kreuzer der Taifun-Klasse)
+GGB  S7     Argonian Hurricane Battlecruiser (Argonischer Schlachtkreuzer der Hurrikan-Klasse)
+GGB  S8     Argonian Nova Dreadnought (Argonischer Dreadnought der Nova-Klasse)
+GGB  S9     Argonian Star Cluster Battleship (Argonisches Schlachtschiff der Sternencluster-Klasse)
+GGB  S3     Bolaar Medium Raider (Mittelschwerer Bolaarischer Kaperer)
+GGB  S4     Bolaar Stealth Raider (Bolaarischer Kaperer der Späher-Klasse)
+GGB  S7     Bolaar Dreadnought (Bolaarischer Dreadnought)
+GGB  S3     Corporate Destroyer (Zerstörer des Konzerns)
+GGB  S4     Corporate Minesweeper (Minenräumer des Konzerns)
+GGB  S5     Corporate Scout Cruiser (Scoutkreuzer des Konzerns)
+GGB  S7     Corporate Battlecruiser (Schlachtkreuzer des Konzerns)
+GGB  S7     Corporate Command Cruiser (Kommandokreuzer des Konzerns)
+GGB  S8     Corporate Dreadnought (Dreadnought des Konzerns)
+GGB  S9     Corporate Battleship (Schlachtschiff des Konzerns)
+GGB  S5     Indirigan Nomads Destroyer (Indirischer Zerstörer)
+GGB  S7     Indirigan Heavy Cruiser (Schwerer Indirischer Kreuzer)
+GGB  S8     Indirigan Nomads Battlecruiser (Indirischer Schlachtkreuzer - Schlatchtkreuzer der Indirischen Nomaden)
+GGB  S10    Indirigan Battleship (Indirisches Schlachtenschiff)
+GGB  S1     Krebiz Medium Capsule (Mittelschwerer Krebische Raumkapsel)
+GGB  S1     Krebiz Minesweeper Capsule (Krebische Minenräumkapsel)
+GGB  S2     Krebiz Battle Capsule (Krebische Gefechtskapsel)
+GGB  S2     Krebiz Clipper Frigate (Krebische Fregatte - Fregatte der Klipper-Klasse)
+GGB  S2     Krebiz Command Capsule (Krebische Kommandokapsel)
+GGB  S2     Krebiz Heavy Capsule (Schwere Krebische Raumkapsel)
+GGB  S3     Krebiz Dreadnought Capsule (Krebische Raumkapsel der Dreadnought-Klasse)
+GGB  S4     Krebiz Mandible Light Cruiser (Leichter Krebischer Kreuzer der Schnabel-Klasse)
+GGB  S5     Krebiz Claw Heavy Cruiser (Schwerer Krebischer Kruezer der Kauen-Klasse)
+GGB  S6     Krebiz Kraken Dreadnought (Krebischer Dreadnought der Kraken-Klasse)
+GGB  S2     Mechad Frigate (Mechadische Fregatte)
+GGB  S4     Mechad Medium Cruiser (Mittelschwerer Mechadischer Kreuzer)
+GGB  S5     Mechad Heavy Cruiser (Schwerer Mechadischer Kreuzer)
+GGB  S6     Mechad Battlecruiser (Mechadischer Schlachtkreuzer)
+GGB  S6     Mechad Command Cruiser (Mechadischer Kommandokreuzer)
+GGB  S7     Mechad Dreadnought (Mechadischer Dreadnought)
+GGB  S8     Mechad Battleship (Mechadischer Schlachtschiff)
+GGB  S3     Vektrean Destroyer (Vektreanische Zerstörer - Zerstörer der Vektreanischen Söldner)
+GGB  S5     Vektrean Heavy Cruiser (Schwerer Vektreanischer Kruezer - Schwerer Kruezer der Vektreanischen Söldner)
+GGB  S6     Vektrean Battlecruiser (Vektreanischer Schlachtkreuzer)
+GGB  K1     Captured Satellite (Eingefangener Satellit)
+GGB  K1     Large Asteroid (Großer Asteroid)
+GGB  K2     Kalin's Small Red Nebula (Kleiner Nebel - Kalins Kleiner Roter Nebel)
+GGB  K/H2   Plasma Field (Plasmafeld)
+GGB  K3     Armory Moon (Waffenlager)
+GGB  K3     Benakis Asteroid Belt (Asteroidengürtel - Benakis Asteroidengürtel)
+GGB  K3     Ore Moon (Erzmond)
+GGB  K4     Small Planet - Bolaar IV (Kleiner Planet - Bolaar IV)
+GGB  K4     Small Planet - Siobhan-7 (Kleiner Planet - Siobhan-7)
+GGB  K5     Homecloud Nebula (Heimatnebel)
+GGB  K5     Planet - Vektrea Prime (Vektrea)
+GGB  K5     Small System - The Cramannerak System (Kleines System - Das Cramanneraksystem)
+GGB  K5     Star (Sonne)
+GGB  K5     Twin Planets - Verkirsh I & II (Zwillingsplaneten - Verkish I & II)
+GGB  K6     Asteroid Field (Asteroidenfeld)
+GGB  K6     Planet - Vorn Ringed Gas Giant (Planet - Der Beringte Gasriese Vorn)
+GGB  K7     Planet - Krebizar (Planet - Krebar)
+GGB  K8     Mechad System (System - Das Mechadsystem)
+GGB  K8     The Scandig System (System - Das Scandigsystem)
+GGB  K9     Planet - Corporate Homeworld (Planet - Heimatweit des Konzerns)
+GGB  K10    Super-Massive Star (Gigantische Sonne)
+GGB  Spcl   German Gold Border Booster Box (Series G)

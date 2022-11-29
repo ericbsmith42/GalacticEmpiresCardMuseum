@@ -1,0 +1,12 @@
+RECENTDECK0:Basic_Deck_B.dek
+RECENTDECK1:Beta_Starter.dek
+RECENTDECK2:Nagiridni.dek
+RECENTDECK3:Basic_Deck_A.dek
+RECENTDECK4:Basic_Deck_A_Argonian.dek
+RECENTDECK5:Basic_Deck_A_Krebiz.dek
+RECENTDECK6:Basic_Deck_C_POT.dek
+RECENTDECK7:Basic_Deck_C.dek
+RECENTDECK8:Basic_Deck_C_Tufor.dek
+RECENTDECK9:Basic_Deck_B_Mechad.dek
+RECENTDECK10:Basic_Deck_B_Corporate.dek
+RECENTDECK11:Basic_Deck_C_Scorpead.dek

@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>221131</lastupdateYYMMDD>
+<quality>HIGH</quality>
+<versionurl>http://galacticempires.no-ip.org/GE/LackeyCCG/high/version.txt</versionurl>
+<updateurl>http://galacticempires.no-ip.org/GE/LackeyCCG/high/updatelist.txt</updateurl>
+<message>I just updated the plugin to include cool stuff.</message>
+
+</version>

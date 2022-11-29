@@ -1,0 +1,27 @@
+<deck version="0.8">
+	<meta>
+		<game>galacticempires</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="S2_-_Nagiridni_Pirate_Scout_NE">S2 Nagiridni Pirate Scout (NE)</name><set>NE</set></card>
+		<card><name id="S2_-_Nagiridni_Pirate_Scout_NE">S2 Nagiridni Pirate Scout (NE)</name><set>NE</set></card>
+		<card><name id="S2_-_Nagiridni_Pirate_Scout_NE">S2 Nagiridni Pirate Scout (NE)</name><set>NE</set></card>
+		<card><name id="S3_-_Nagiridni_Pirate_Destroyer_Pro6">S3 Nagiridni Pirate Destroyer (Pro)</name><set>Pro</set></card>
+		<card><name id="S3_-_Nagiridni_Pirate_Destroyer_Pro6">S3 Nagiridni Pirate Destroyer (Pro)</name><set>Pro</set></card>
+		<card><name id="S3_-_Nagiridni_Pirate_Destroyer_Pro6">S3 Nagiridni Pirate Destroyer (Pro)</name><set>Pro</set></card>
+		<card><name id="S4_-_Nagiridni_Pirate_Salvage_Tug_Pro6">S4 Nagiridni Pirate Salvage Tug (Pro)</name><set>Pro</set></card>
+		<card><name id="S4_-_Nagiridni_Pirate_Salvage_Tug_Pro6">S4 Nagiridni Pirate Salvage Tug (Pro)</name><set>Pro</set></card>
+		<card><name id="S4_-_Nagiridni_Pirate_Salvage_Tug_Pro6">S4 Nagiridni Pirate Salvage Tug (Pro)</name><set>Pro</set></card>
+		<card><name id="S5_-_Nagiridni_Pirate_Destroyer_Pir">S5 Nagiridni Pirate Destroyer (Pir)</name><set>Pir</set></card>
+		<card><name id="S5_-_Nagiridni_Pirate_Destroyer_Pir">S5 Nagiridni Pirate Destroyer (Pir)</name><set>Pir</set></card>
+		<card><name id="S5_-_Nagiridni_Pirate_Destroyer_Pir">S5 Nagiridni Pirate Destroyer (Pir)</name><set>Pir</set></card>
+		<card><name id="S6_-_Nagiridni_Pirate_Boarding_Cruiser_Pro6">S6 Nagiridni Pirate Boarding Cruiser (Pro)</name><set>Pro</set></card>
+		<card><name id="S6_-_Nagiridni_Pirate_Boarding_Cruiser_Pro6">S6 Nagiridni Pirate Boarding Cruiser (Pro)</name><set>Pro</set></card>
+		<card><name id="S6_-_Nagiridni_Pirate_Cruiser_Pir">S6 Nagiridni Pirate Cruiser (Pir)</name><set>Pir</set></card>
+		<card><name id="S7_-_Nagiridni_Pirate_Cruiser_-_Aggressor_Cruiser_Pro5">S7 Nagiridni Pirate Cruiser - Aggressor Cruiser (Pro)</name><set>Pro</set></card>
+		<card><name id="S7_-_Nagiridni_Pirate_Cruiser_-_Aggressor_Cruiser_Pro5">S7 Nagiridni Pirate Cruiser - Aggressor Cruiser (Pro)</name><set>Pro</set></card>
+		<card><name id="T6_-_Planet_-_Nagir_XII_Per">T6 Planet - Nagir XII (Per)</name><set>Per</set></card>
+		<card><name id="T1_-_Nagiridni_Pirate_Outpost_Pro6">T1 Nagiridni Pirate Outpost (Pro)</name><set>Pro</set></card>
+		<card><name id="S7_-_Nagiridni_Pirate_Mine_Cruiser_Pro6">S7 Nagiridni Pirate Mine Cruiser (Pro)</name><set>Pro</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,516 @@
+39	A1 Infestation Inhibitor
+63	A1 Lesser Automaton
+44	A1 Medical Scanner
+63	A1 Millennia Molting
+28	R/A1 Mind Shield
+45	A1 Strategy
+60	A2 Hand-Held Weapon
+63	A2 Logic
+25	A2 Opposite Extension
+33	R/A2 Premonition
+33	A2 Slick Bargainer
+32	A2 Temporal Shifter
+45	A3 Automaton
+42	A3 Deviant
+27	A3 Star Walker
+28	A3 Techno-Psy
+51	A3 Tri-Millennia Molting
+42	A4 Bionic Enhancement
+26	A4 Derranged Psy
+41	R/A4 Genetic Mutation
+46	A4 Hot Nobelium
+42	R/A4 Mind Guard
+44	R/A4 Scroll Of Viskaras
+39	A5 Ancient Molting
+33	A5 Aurora Borealis
+46	A5 Mental Inspiration
+34	A6 Omniscience
+49	A7 Arduous Study
+60	B1 Commercial Outpost
+41	B1 Military Outpost
+34	B1 Personal Base
+26	B1 Pirate Outpost
+62	B1 Planetary Shield
+66	B2 Ancient Ruins
+40	B2 Defensive Satellites
+63	B2 Fighter Garrison
+26	B2 Psy Outpost
+29	B3 Heavy Planetary Shield
+52	B3 Power Generation Platform
+61	B3 Repair Station
+65	B3 Space Station
+53	B4 Base Station
+69	B4 Planetary Phaser Base
+64	B4 Research Base
+27	B4 Spiritual Temple
+51	B5 Administrative Facility
+58	T/B5 Vektrean Asteroid Outpost
+50	B6 Battlestation
+33	B6 Spacer's Retirement Home
+32	B6 Visonic Ruins
+52	R/C1 Bar Tender
+79	C1 Boarding Party
+54	C1 Confidential First Chief Executive Deputy Assistant to the..... - Ditto
+73	R/C1 Crewman
+46	C1 Indirigan Female
+34	C1 Suark Breed
+56	C1 Sysop
+46	C2 Civilian Captain
+58	C2 Cyber-Programmer
+48	R/C2 Doctor
+53	C2 Ensign
+61	C2 Helmsman
+62	C2 Mercenary
+57	C2 Ordnance Officer
+44	R/C2 Science Officer
+30	C2 Suark Breed
+32	C3 Cryogenic Convict
+40	C3 Engineer
+29	C3 Escaped Prisoner
+43	C3 Green Fighter Pilot
+42	C3 Media Personality
+66	C3 Nurse
+27	C3 Psy Healer
+26	C3 Rogue Cop
+53	C3 Technician
+55	C4 Boarding Party
+63	C4 Bounty Hunter
+62	C4 Corrupt Politician
+52	C4 Cyber Mage
+32	C4 Cybersist
+32	C4 Invasion Force
+72	R/C4 Marine
+52	C4 Navigator
+44	C4 Pirate Captain
+34	R/C4 Science Officer
+60	R/C4 Security Officer
+52	C4 Spiritual Leader
+61	C4 Teamster
+34	C4 Temporal Mechanic
+42	R/C4 Trophy Hunter
+59	C5 Communications Officer
+29	C5 Leopan Raiding Captain
+32	R/C5 Mutineer
+46	C5 Suicide Squad
+49	C5 Weapons Officer
+30	C6 Ancient Spacefarer
+41	C6 Captain
+26	C6 CFO
+30	C6 Clone
+47	R/C6 Commando
+51	R/C6 Damage Control Team
+26	C6 Master Pirate
+50	C6 Mercenary
+47	C6 Operations Officer - Ops
+29	C6 Rogue Couple
+51	R/C6 Science Officer
+58	R/C6 Spy
+32	C7 Criminal Judge
+55	R/C7 Doctor
+48	C7 Saboteur
+35	D1 Dragon Hatchling
+38	D1 Scintillating Dragoness
+26	D2 Dragon Hatchling
+38	D2 Oort Dragoness
+26	D3 Dark Dragoness
+32	D3 Plasma Dragoness
+29	D3 Quark Dragoness
+36	D4 Comet Dragoness
+26	D4 Psy Dragoness
+49	D4 Radiation Dragoness
+31	D4 Rogue Dragoness
+37	D5 Hydrogen Dragoness
+31	D5 Void Dragoness
+29	R/D6 Solar Dragoness
+35	E1 Capsule Engine Pack - Krebiz Capsule Engine Pack
+59	E1 Cargo
+44	R/E1 Civilian Transporter
+38	E1 Distribution Node
+56	E1 Escape Pod
+71	E1 Explosive Mine
+64	R/E1 False Mine
+72	E1 Fuser Mechanism
+38	E1 Krebiz Armor
+42	E1 Krebiz Pseudo Capsule
+64	E1 Probe
+69	E1 Shield Refit
+46	R/E1 Terrain Attack Shuttle
+38	R/E2 GP Chamber - Argonian Gaseous Protection Chamber
+35	E2 Krebiz Armor
+49	E2 Laboratory
+72	E2 Nuclear Mine
+82	E2 Phaser Refit
+32	R/E2 Stasis Canister
+28	E2 Time Capsule
+33	R/E2 Tractor Beam
+43	R/E2 Transport Shuttle
+80	R/E2 Transporter
+61	E3 Cargo
+49	R/E3 Emergency Power
+63	E3 Engine Synchronization
+50	E3 Heavy Shield Refit
+79	E3 Heavy Weapon Refit
+35	E3 Krebiz Armor
+42	E3 Radial Dish
+51	E3 Reserve Power
+53	R/E3 Shuttlecraft
+42	R/E3 Temporal Transporter
+58	R/E4 Anti-Tractor
+28	E4 Hangar Bay
+84	E4 Heavy Phaser Refit
+73	R/E4 Heavy Shuttlecraft
+37	R/E4 Hull Rotation - Argonian Hull Rotation
+26	E4 Psybot
+65	E4 Shuttle Bomb
+29	E4 Stellar Map
+41	E4 Tram Refit
+41	E5 Distribution Nodes
+46	R/E5 Fighter
+26	R/E5 Pirate Fighter
+43	E5 Robotic Crew
+39	R/E6 Distortion Generator
+46	E6 Heavy Weapon Refit
+33	E6 Super Computer
+41	E7 Temporal Shuttle
+31	E8 Energy Flux Mode Enhancement - Argonian Energy Flux Mode Enhancement
+29	E9 Personal Corvette
+34	E9 Temporal Fighter
+26	F1 Electro-Field
+26	F2 Corporeal Field
+28	F2 Lesser Healing Field
+29	F3 Field of Minor Wilding
+32	F3 Field of Power
+28	F4 Psycanti Field
+31	F4 Visonic Field
+26	F4 Warp Field
+30	F8 Temporal Field
+29	G1 Time Manipulation
+26	G2 Survey Mission
+35	G3 Rescue Attempt
+25	G4 Solitude
+67	H1 Divergent Anomaly
+66	H1 Dust Cloud
+68	H2 Gravity Wave
+71	H2 Ion Storm
+52	H2 Meteor Shower
+95	T/H2 Plasma Field
+60	H2 Supersonic Flow
+42	H3 Magnetic Cloud
+25	H3 Plasma Vortex
+64	H3 Pulsar
+54	H3 Quasar
+63	H3 Radioactive Dust Cloud
+58	H3 Small Minefield
+44	H4 Cosmic Rays
+27	H4 Gravity Well
+38	H4 Nova
+25	H4 Temporal Repetition
+68	H4 Warp Funnel
+62	H5 EM Burst
+53	H5 Ion Storm
+25	H5 Power Outage
+37	H5 Space-Time Diversion
+37	R/H5 Time Trap
+30	H5 Time Wave
+47	H6 Crab Pulsar
+36	H7 Maelstrom
+31	H7 Time Tornado
+29	H8 Gravity Pocket
+73	R/L1 Lucky Crew Action
+32	R/L1 Unlucky Crew Action
+43	L2 Lucky Mine Explosion
+50	R/L2 Malpractice
+53	R/L2 Phaser Malfunction
+32	L2 Sequential Continuum
+50	L2 Warp Engine Breach
+58	L3 Lucky Targeting
+69	L3 Pirate's Cache
+44	R/L3 Repair Malfunction
+35	R/L3 Time Exchange
+59	R/L3 Transporter Malfunction
+48	R/L3 Unlucky Targeting
+60	L4 Cursed Alien Artifact
+49	L4 Lucky Shield Repair
+32	R/L4 Miscommunications
+42	R/L4 Monster Healing
+28	R/L4 Monster Overstrike
+30	L4 Navigational Error
+46	L4 Parallel Universe
+62	R/L4 Shuttle Malfunction
+59	R/L4 Unsuccessful Minesweeping
+50	R/L5 Defensive Override
+38	R/L5 Heavy Weapons Backfire
+36	R/L6 Distress Beacon
+35	R/L6 Lucky Maneuver
+41	L7 Alien Artifact
+30	R/L7 Anomaly Portal
+29	R/L7 Temporal Correction
+29	R/L8 Demigod Diversion
+32	R/L8 Targeting Error
+29	L9 Accelerated Timeline
+31	L9 Lost Fleet
+26	M1 Psychotic Sludge
+48	M1 Research Defiler
+65	R/M1 Sextaraan Web Crawlers
+72	M1 Small Phaser Eel
+67	M2 Planet Gouge
+42	M2 Rat Infestation
+72	M2 Snare Vines
+66	M2 Space Vertigo
+33	M2/8 Temporal Snake
+46	M2 Vymezies Particle
+58	M3 Alien Parasites
+67	M3 Invinco Guardian
+27	M3 Phase Rats
+30	M3 Research Mandator
+55	M3 Scandig Blob
+61	M3 Shadow
+73	M3 Shield Fiend
+26	R/M3 Space Vertigo
+31	M4 Cybercyst
+64	M4 Sirens
+61	M4 Space Dragon
+48	M4 Spacetacean
+33	M4 Suark Beast
+51	R/M4 Time Keeper
+27	M4 Vymezies Matter
+54	M5 Astromorph
+37	M5 Large Phaser Eel
+52	M5 Occumbus
+36	M5 Power Leech
+26	M5 Ship Mimic
+35	M5 Surface Monster
+51	M5 Zarom
+40	M6 Invinco Guardian
+34	M6 Mind Control Beast
+34	M6 Scentari Snails
+40	M6 Seductress
+44	M6 Visilikiiy's Eye
+54	O1 Breakdown
+28	O1 Fighter Support
+67	O1 Illness
+52	R/O1 Intercept Action
+30	R/O1 Past Transmission
+25	O1 Psy Disease
+67	R/O1 Sun Spot
+31	R/O1 Time Compression
+34	R/O1 Time Skip
+33	O2 Base Relocation
+28	O2 Comet Control
+55	O2 Comet Impact
+33	R/O2 Discard Delay
+31	R/O2 Dream State
+30	O2 Early Shipment
+29	O2 Future Transmission
+75	O2 Gold Vein
+63	O2 Injury
+66	O2 Natural Disaster
+25	O2 Psy Mutation
+53	O2 Serious Hull Breach
+60	O2 Space Debris
+30	R/O2 Visonic Interference
+32	O3 Accelerated Burn
+49	O3 Bureaucracy
+44	R/O3 Crinkled Timeline
+49	R/O3 Defensive Electronic Warfare
+60	O3 Early Warning Beacon
+54	O3 Forced Retreat
+66	O3 Illness - Aldibrik Ailment
+46	R/O3 Instant Reaction
+32	R/O3 Lost In Space
+25	R/O3 Military Reservations
+28	R/O3 Mind Turning
+75	O3 Offensive Electronic Warfare
+70	R/O3 Offensive/Defensive Electronic Warfare
+27	R/O3 Psycanti Deception
+29	R/O3 Time Switch
+57	O3 Wandering Desire
+32	R/O4 Cessation of Events
+30	R/O4 Discard Exchange
+26	O4 Entertaining Pastime
+54	O4 Flood
+26	O4 Forced Retreat
+25	O4 Impending Chaos
+62	O4 Information Leak
+60	O4 Love Interest
+27	O4 Stupefy
+29	O5 Breakdown
+52	O5 Derelict Spacecraft
+30	R/O5 Evasive Maneuvers
+39	O5 Forced Retreat
+65	O5 Illness
+46	O5 Insanity
+59	O5 Pirate Activity
+31	O5 Political Upheaval
+33	R/O5 Tactical Retreat
+33	O5 Time Expansion
+36	R/O5 Volatile Terrain
+35	O5 Wandering Desire
+28	O6 Accelerated Aging
+26	R/O6 Breached City
+39	O6 Bribe Pirate
+57	O6 Broken Supply Lines
+32	R/O6 Cessation of Engagement
+27	O6 Desolation
+29	R/O6 Emergency Capsule Separation
+62	O6 Injury
+34	O6 Labor Strikes
+32	R/O6 Time Gate
+47	O7 False Intelligence Report
+42	R/O7 Out of Season
+31	O7 Quantum Occurrence
+53	R/O8 Alien Love Interest
+34	R/O8 Emergency Damage Control
+34	O8 Planetary Revolt
+31	P3 Psycanti Practitioner
+31	P7 Psycanti Duelist
+28	P1 Visonic Muse
+31	S1 Fleet Freighter
+27	S1 Personal Cruiser
+68	R/S1 Ship from the Future
+58	S1 Time Ship
+41	S2 Fleet Tug
+66	S2 Independent Freighter
+61	S2 Space Yacht
+45	R/S3 Gohest's Rescue Launch - The Hazy Ghost
+59	S3 Independent Pirate Ship
+46	S3 Time Ship
+35	S4 Archeology Ship
+53	S4 Independent Pirate Ship
+49	S4 Local Police Ship
+59	S5 Ore Carrier
+68	S6 Garbage Scow
+32	S6 Luxury Liner
+33	S2 Argonian Escort - Argonian Warm Front Escort
+36	S3 Argonian Frigate - Argonian Sunspot Frigate
+33	S4 Argonian Assault Carrier - Argonian Galestorm Assault Carrier
+32	S4 Argonian Destroyer - Argonian Blizzard Destroyer
+36	S4 Argonian Minesweeper - Argonian Sleet Minesweeper
+38	S4 Argonian Scout Cruiser - Argonian Cumulonimbus Scout Cruiser
+32	S5 Argonian Light Cruiser - Argonian Whirlwind Light Cruiser
+34	S6 Argonian Command Cruiser - Argonian Tornado Command Cruiser
+32	S6 Argonian Heavy Cruiser - Argonian Typhoon Heavy Cruiser
+30	S7 Argonian Battlecruiser - Argonian Hurricane Battlecruiser
+30	S7 Argonian Heavy Carrier - Argonian Ionstorm Heavy Carrier
+30	S1 Bolaar Patrol Ship
+35	S2 Bolaar Ultra-Light Raider
+32	S3 Bolaar Light Pirate Raider
+39	S3 Bolaar Medium Raider
+30	S4 Bolaar Cargo Express
+35	S4 Bolaar Stealth Raider
+34	S6 Bolaar Battlecruiser
+37	S2 Corporate Escort
+34	S2 Corporate Frigate
+35	S3 Corporate Destroyer
+34	S4 Corporate Light Cruiser
+37	S4 Corporate Minesweeper
+34	S5 Corporate Scout Cruiser
+38	S6 Corporate Heavy Cruiser
+35	S7 Corporate Battlecruiser
+37	S7 Corporate Command Cruiser
+66	S3 Indirigan Escort - Indirigan Nomads Escort
+51	S3 Indirigan Light Carrier
+68	S4 Indirigan Frigate - Indirigan Nomads Frigate
+105	S5 Indirigan Destroyer - Indirigan Nomads Destroyer
+44	S6 Indirigan Light Cruiser
+39	S6 Indirigan Medium Cruiser - Indirigan Nomads Medium Cruiser
+26	S10 Dread Savior
+39	S1 Krebiz Escort Capsule
+38	S1 Krebiz Light Carrier Capsule
+27	S1 Krebiz Medium Capsule
+39	S1 Krebiz Minesweeper Capsule
+33	S1 Krebiz Science Capsule
+28	S2 Krebiz Battle Capsule
+33	S2 Krebiz Carrier Capsule
+30	S2 Krebiz Command Capsule
+27	S2 Krebiz Heavy Capsule
+36	S2 Krebiz Scout Capsule
+25	S3 Krebiz Dreadnought Capsule
+25	S2 Krebiz Clipper Frigate
+37	S3 Krebiz Pincer Destroyer
+32	S4 Krebiz Mandible Light Cruiser - Krebiz Mandible Lt. Cruiser
+32	S5 Krebiz Claw Heavy Cruiser
+30	S6 Krebiz Kraken Dreadnought
+29	S5 Leopan Heavy Cruiser
+36	S2 Mechad Escort
+33	S2 Mechad Frigate
+37	S3 Mechad Destroyer
+33	S4 Mechad Light Cruiser
+37	S4 Mechad Medium Cruiser
+33	S4 Mechad Scout Cruiser
+38	S5 Mechad Heavy Cruiser
+30	S6 Mechad Battlecruiser
+36	S6 Mechad Command Cruiser
+34	S1 P.O.T. Armed Launch
+37	S2 P.O.T. Escort
+37	S3 P.O.T. Frigate
+25	S3 P.O.T. Science Cutter
+39	S4 P.O.T. Destroyer
+38	S2 Scorpead Escort
+34	S2 Scorpead Frigate
+39	S3 Scorpead Destroyer
+37	S4 Scorpead Science Ship
+36	S5 Scorpead Light Cruiser
+33	S2 Tufor Escort
+33	S3 Tufor Cutter
+37	S3 Tufor Light Fighter Carrier
+33	S4 Tufor Destroyer
+32	S4 Tufor Research Scout
+45	S2 Vektrean Frigate
+41	S3 Vektrean Destroyer
+41	S4 Vektrean Light Cruiser
+95	S5 Vektrean Heavy Cruiser
+58	T/B5 Vektrean Asteroid Outpost
+48	T1 Apollo Body
+148	T1 Captured Satellite
+29	T1 Large Asteroid
+39	T1 Planetary Storm
+43	T2 Captured Moon
+76	T2 Comet - Biruk's Comet
+26	T2 Commerce Moon
+68	T2 Ionized Particle Field
+28	T2 Moon - Populated Moon
+95	T/H2 Plasma Field
+29	T2 Psy Moon
+32	T2 Time Enclave
+45	T3 Agro Moon
+42	T3 Alternate Universe
+80	T3 Armory Moon
+65	T3 Asteroid Belt - Benakis Asteroid Belt
+42	T3 Blayok Protostar
+34	T3 Dragon Egg
+78	T3 Dragon Hole
+42	T3 Minor Planet - Bosheegh Minor Planet
+67	T3 Moon
+59	T3 Ore Moon
+68	T3 Periodic Comet - Rom's Comet
+28	T3 Planet - Crystal Planet
+69	T3 Planet - Sigry III
+32	T3 Protostar
+29	T3 Repair Moon
+31	T4 Forming System
+42	T4 Obelisk System
+139	T4 Planet - Podekkur Prime
+48	T4 Small Moon - Aldibrik Munitions Plant
+132	T4 Small Planet - Bolaar IV
+137	T4 Small Planet - Siobhan-7
+82	T4 Small System - Rabuff Locttoor
+46	T5 Dragon Cave
+27	T5 Nebula - Homecloud Nebula
+135	T5 Planet - Candor II
+79	T5 Planet - Jnaphahr
+50	T5 Planet - Vektrea Prime
+27	T5 Planet - Zambarez Planet
+184	T5 Small System - Hcsuar-Drahcir System
+141	T5 Small System - The Cramannerak System
+48	T5 Star
+49	T5 Twin Planets - Verkirsh I & II
+48	T6 Asteroid Field
+35	T6 Black Hole
+54	T6 Comet - Sochess Comet
+34	T6 Planet - Vorn Ringed Gas Giant
+37	T6 System - Gorgochok System
+33	T7 Planet - Krebizar
+43	T7 Quantum Black Hole
+33	T8 System - Mechad System
+33	T9 Drag7on Lair

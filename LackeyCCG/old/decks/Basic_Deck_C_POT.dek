@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>galacticempires</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="A1_-_Medical_Scanner_NE">A1 Medical Scanner (NE)</name><set>NE</set></card>
+		<card><name id="A2_-_Logic_NE">A2 Logic (NE)</name><set>NE</set></card>
+		<card><name id="A3_-_Deviant_NE">A3 Deviant (NE)</name><set>NE</set></card>
+		<card><name id="A4_-_Bionic_Enhancement_NE">A4 Bionic Enhancement (NE)</name><set>NE</set></card>
+		<card><name id="A4_-_Genetic_Mutation_NE">A4 Genetic Mutation (NE)</name><set>NE</set></card>
+		<card><name id="B2_-_Ancient_Ruins_NE">B2 Ancient Ruins (NE)</name><set>NE</set></card>
+		<card><name id="C1_-_Sysop_NE">C1 Sysop (NE)</name><set>NE</set></card>
+		<card><name id="C2_-_Cyber-Programmer_NE">C2 Cyber-Programmer (NE)</name><set>NE</set></card>
+		<card><name id="C2_-_Science_Officer_NE">C2 Science Officer (NE)</name><set>NE</set></card>
+		<card><name id="C3_-_Green_Fighter_Pilot_NE">C3 Green Fighter Pilot (NE)</name><set>NE</set></card>
+		<card><name id="C3_-_Media_Personality_NE">C3 Media Personality (NE)</name><set>NE</set></card>
+		<card><name id="C4_-_Cyber_Mage_NE">C4 Cyber Mage (NE)</name><set>NE</set></card>
+		<card><name id="C4_-_Teamster_NE">C4 Teamster (NE)</name><set>NE</set></card>
+		<card><name id="D3_-_Plasma_Dragoness_NE">D3 Plasma Dragoness (NE)</name><set>NE</set></card>
+		<card><name id="E1_-_Civilian_Transporter_NE">E1 Civilian Transporter (NE)</name><set>NE</set></card>
+		<card><name id="E1_-_Explosive_Mine_NE">E1 Explosive Mine (NE)</name><set>NE</set></card>
+		<card><name id="E2_-_Transport_Shuttle_NE">E2 Transport Shuttle (NE)</name><set>NE</set></card>
+		<card><name id="E3_-_Radial_Dish_NE">E3 Radial Dish (NE)</name><set>NE</set></card>
+		<card><name id="E5_-_Robotic_Crew_NE">E5 Robotic Crew (NE)</name><set>NE</set></card>
+		<card><name id="H2_-_Supersonic_Flow_NE">H2 Supersonic Flow (NE)</name><set>NE</set></card>
+		<card><name id="H3_-_Magnetic_Cloud_NE">H3 Magnetic Cloud (NE)</name><set>NE</set></card>
+		<card><name id="L2_-_Lucky_Mine_Explosion_NE">L2 Lucky Mine Explosion (NE)</name><set>NE</set></card>
+		<card><name id="L4_-_Parallel_Universe_NE">L4 Parallel Universe (NE)</name><set>NE</set></card>
+		<card><name id="M1_-_Sextaraan_Web_Crawlers_NE">M1 Sextaraan Web Crawlers (NE)</name><set>NE</set></card>
+		<card><name id="M2_-_Rat_Infestation_NE">M2 Rat Infestation (NE)</name><set>NE</set></card>
+		<card><name id="M2_-_Vymezies_Particle_NE">M2 Vymezies Particle (NE)</name><set>NE</set></card>
+		<card><name id="M3_-_Scandig_Blob_NE">M3 Scandig Blob (NE)</name><set>NE</set></card>
+		<card><name id="O3_-_Illness_-_Aldibrik_Ailment_NE">O3 Illness - Aldibrik Ailment (NE)</name><set>NE</set></card>
+		<card><name id="S1_-_P.O.T._Armed_Launch_NE">S1 P.O.T. Armed Launch (NE)</name><set>NE</set></card>
+		<card><name id="S1_-_P.O.T._Armed_Launch_NE">S1 P.O.T. Armed Launch (NE)</name><set>NE</set></card>
+		<card><name id="S1_-_P.O.T._Armed_Launch_NE">S1 P.O.T. Armed Launch (NE)</name><set>NE</set></card>
+		<card><name id="S2_-_P.O.T._Escort_NE">S2 P.O.T. Escort (NE)</name><set>NE</set></card>
+		<card><name id="S2_-_P.O.T._Escort_NE">S2 P.O.T. Escort (NE)</name><set>NE</set></card>
+		<card><name id="S2_-_P.O.T._Escort_NE">S2 P.O.T. Escort (NE)</name><set>NE</set></card>
+		<card><name id="S3_-_P.O.T._Frigate_NE">S3 P.O.T. Frigate (NE)</name><set>NE</set></card>
+		<card><name id="S3_-_P.O.T._Frigate_NE">S3 P.O.T. Frigate (NE)</name><set>NE</set></card>
+		<card><name id="S3_-_P.O.T._Frigate_NE">S3 P.O.T. Frigate (NE)</name><set>NE</set></card>
+		<card><name id="S3_-_P.O.T._Science_Cutter_NE">S3 P.O.T. Science Cutter (NE)</name><set>NE</set></card>
+		<card><name id="S3_-_P.O.T._Science_Cutter_NE">S3 P.O.T. Science Cutter (NE)</name><set>NE</set></card>
+		<card><name id="S3_-_P.O.T._Science_Cutter_NE">S3 P.O.T. Science Cutter (NE)</name><set>NE</set></card>
+		<card><name id="S4_-_P.O.T._Destroyer_NE">S4 P.O.T. Destroyer (NE)</name><set>NE</set></card>
+		<card><name id="S4_-_P.O.T._Destroyer_NE">S4 P.O.T. Destroyer (NE)</name><set>NE</set></card>
+		<card><name id="S4_-_P.O.T._Destroyer_NE">S4 P.O.T. Destroyer (NE)</name><set>NE</set></card>
+		<card><name id="T1_-_Energy_Moon_NE">T1 Energy Moon (NE)</name><set>NE</set></card>
+		<card><name id="T2_-_Captured_Moon_NE">T2 Captured Moon (NE)</name><set>NE</set></card>
+		<card><name id="T3_-_Agro_Moon_NE">T3 Agro Moon (NE)</name><set>NE</set></card>
+		<card><name id="T3_-_Blayok_Protostar_NE">T3 Blayok Protostar (NE)</name><set>NE</set></card>
+		<card><name id="T3_-_Bosheegh_Minor_Planet_NE">T3 Minor Planet - Bosheegh Minor Planet (NE)</name><set>NE</set></card>
+		<card><name id="T3_-_Periodic_Comet_-_Roms_Comet_NE">T3 Periodic Comet - Rom&apos;s Comet (NE)</name><set>NE</set></card>
+		<card><name id="T4_-_Obelisk_System_NE">T4 Obelisk System (NE)</name><set>NE</set></card>
+	</superzone>
+</deck>

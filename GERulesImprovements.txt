@@ -1,0 +1,98 @@
+REDUCED NUMBER OF POINT TYPES
+-----------------------------
+Ships and Terrain only produce and use 3 types of points: Energy, Supply, and Economy.
+Economy Points can be used as Energy or Supply and will be used to replace other point
+types in the game - it can be used to repair/heal, will replace Research.
+Standard Heavy Weapons will use Supply Points.
+
+CONSOLIDATE WEAPONS FIRE
+------------------------
+Not sure which way would be the best, but would like to simply weapons fire.
+Option 1) Tally all weapons fire into Fleet Targeted, Phaser, and Heavy Weapons totals. Then begin
+assigning damage to targets one by one. The source of the damage won't matter, so 
+
+Option 2) Each Unit must fire all of its weapons at a single target. Only Heavy Weapons can still
+affect a Terrain; to make up for this when a unit fires on a Terrain with a Base or based they will
+target the whichever Base they want first, then damage will "splash" to the next Base on the stack, 
+then when all Bases are eliminated any remaining Heavy Weapons damage will splash to the Terrain
+itself.
+
+
+CONSOLIDATE DAMAGE TYPES
+------------------------
+Only two types of damage exist - Structural and Shield.
+No more "Card Damage."
+No more unrepairable damage.
+No more special repair restrictions.
+
+
+
+TECHNOLOGY RULES
+----------------
+Completely remove the idea of Adapted Technology; it's too convoluted and adds little to the game. 
+
+Secret Technology can only be used by the Empire
+
+Restricted Technology can be used by other empires if they have a card that allow the use of Foreign Technology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+REDUCED NUMBER OF CARD TYPES
+----------------------------
+Using sub-types to streamline things
+
+
+DEVELOPMENT
+-----------
+Development cards are played to other cards to improve themsuch as Gear played to Crew or ship upgrading Equipment.
+
+
+Development
+-Artifacts
+-Ability
+-Gear
+-Equipment
+
+
+Crew
+-Psy
+-Travelers
+
+
+Ship
+-Ship
+-Dragon
+
+Event
+-Hazards
+-Occurances
+-Monster
+-Luck
+-Dilemma
+-Objective
+
+
+Facility
+-Base
+-Station
+-Installations
+
+Territory / Terrain
+-Comet
+-Asteroid
+-Moon
+-Planet
+-Star
+-System
+-Nebula
+-Black Hole

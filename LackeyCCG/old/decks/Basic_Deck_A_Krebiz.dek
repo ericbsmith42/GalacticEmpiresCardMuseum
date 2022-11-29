@@ -1,0 +1,58 @@
+<deck version="0.8">
+	<meta>
+		<game>galacticempires</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="B1_-_Planetary_Shield_PE">B1 Planetary Shield (PE)</name><set>PE</set></card>
+		<card><name id="B2_-_Defensive_Satellites_Right_PE">B2 Defensive Satellites [2/2] (PE)</name><set>PE</set></card>
+		<card><name id="C1_-_Boarding_Party_PE">C1 Boarding Party (PE)</name><set>PE</set></card>
+		<card><name id="C1_-_Crewman_PE">C1 Crewman (PE)</name><set>PE</set></card>
+		<card><name id="C2_-_Civilian_Captain_PE">C2 Civilian Captain (PE)</name><set>PE</set></card>
+		<card><name id="C2_-_Doctor_PE">C2 Doctor (PE)</name><set>PE</set></card>
+		<card><name id="C3_-_Technician_PE">C3 Technician (PE)</name><set>PE</set></card>
+		<card><name id="E1_-_Cargo_PE">E1 Cargo (PE)</name><set>PE</set></card>
+		<card><name id="E1_-_Escape_Pod_PE">E1 Escape Pod (PE)</name><set>PE</set></card>
+		<card><name id="E1_-_Fuser_Mechanism_PE">E1 Fuser Mechanism (PE)</name><set>PE</set></card>
+		<card><name id="E1_-_Krebiz_Armor_PE">E1 Krebiz Armor (PE)</name><set>PE</set></card>
+		<card><name id="E2_-_Laboratory_PE">E2 Laboratory (PE)</name><set>PE</set></card>
+		<card><name id="E2_-_Transporter_PE">E2 Transporter (PE)</name><set>PE</set></card>
+		<card><name id="E3_-_Shuttlecraft_Left_PE">E3 Shuttlecraft [Left] (PE)</name><set>PE</set></card>
+		<card><name id="H1_-_Divergent_Anomaly_PE">H1 Divergent Anomaly (PE)</name><set>PE</set></card>
+		<card><name id="H2_-_Gravity_Wave_PE">H2 Gravity Wave (PE)</name><set>PE</set></card>
+		<card><name id="H2_-_Ion_Storm_PE">H2 Ion Storm (PE)</name><set>PE</set></card>
+		<card><name id="L1_-_Lucky_Crew_Action_PE">L1 Lucky Crew Action (PE)</name><set>PE</set></card>
+		<card><name id="L2_-_Malpractice_PE">L2 Malpractice (PE)</name><set>PE</set></card>
+		<card><name id="M1_-_Small_Phaser_Eel_PE">M1 Small Phaser Eel (PE)</name><set>PE</set></card>
+		<card><name id="M2_-_Space_Vertigo_PE">M2 Space Vertigo (PE)</name><set>PE</set></card>
+		<card><name id="M3_-_Invinco_Guardian_PE">M3 Invinco Guardian (PE)</name><set>PE</set></card>
+		<card><name id="M3_-_Shield_Fiend_PE">M3 Shield Fiend (PE)</name><set>PE</set></card>
+		<card><name id="O1_-_Illness_PE">O1 Illness (PE)</name><set>PE</set></card>
+		<card><name id="O3_-_Forced_Retreat_PE">O3 Forced Retreat (PE)</name><set>PE</set></card>
+		<card><name id="S1_-_Fleet_Freighter_Left_PE">S1 Fleet Freighter [Left] (PE)</name><set>PE</set></card>
+		<card><name id="S1_-_Krebiz_Light_Capsule_PE">S1 Krebiz Light Capsule (PE)</name><set>PE</set></card>
+		<card><name id="S1_-_Krebiz_Light_Capsule_PE">S1 Krebiz Light Capsule (PE)</name><set>PE</set></card>
+		<card><name id="S1_-_Krebiz_Medium_Capsule_PE">S1 Krebiz Medium Capsule (PE)</name><set>PE</set></card>
+		<card><name id="S1_-_Krebiz_Medium_Capsule_PE">S1 Krebiz Medium Capsule (PE)</name><set>PE</set></card>
+		<card><name id="S2_-_Krebiz_Clipper_Frigate_Left_PE">S2 Krebiz Clipper Frigate [Left] (PE)</name><set>PE</set></card>
+		<card><name id="S2_-_Krebiz_Clipper_Frigate_Left_PE">S2 Krebiz Clipper Frigate [Left] (PE)</name><set>PE</set></card>
+		<card><name id="S2_-_Krebiz_Heavy_Capsule_PE">S2 Krebiz Heavy Capsule (PE)</name><set>PE</set></card>
+		<card><name id="S2_-_Krebiz_Heavy_Capsule_PE">S2 Krebiz Heavy Capsule (PE)</name><set>PE</set></card>
+		<card><name id="S3_-_Indirigan_Light_Carrier_PE">S3 Indirigan Light Carrier (PE)</name><set>PE</set></card>
+		<card><name id="S3_-_Krebiz_Pincer_Destroyer_PE">S3 Krebiz Pincer Destroyer (PE)</name><set>PE</set></card>
+		<card><name id="S3_-_Krebiz_Pincer_Destroyer_PE">S3 Krebiz Pincer Destroyer (PE)</name><set>PE</set></card>
+		<card><name id="S4_-_Indirigan_Nomads_Frigate_PE">S4 Indirigan Frigate - Indirigan Nomads Frigate (PE)</name><set>PE</set></card>
+		<card><name id="S4_-_Krebiz_Mandible_Light_Cruiser_PE">S4 Krebiz Mandible Light Cruiser - Krebiz Mandible Lt. Cruiser (PE)</name><set>PE</set></card>
+		<card><name id="S4_-_Krebiz_Mandible_Light_Cruiser_PE">S4 Krebiz Mandible Light Cruiser - Krebiz Mandible Lt. Cruiser (PE)</name><set>PE</set></card>
+		<card><name id="S5_-_Krebiz_Claw_Heavy_Cruiser_PE">S5 Krebiz Claw Heavy Cruiser (PE)</name><set>PE</set></card>
+		<card><name id="S5_-_Krebiz_Claw_Heavy_Cruiser_PE">S5 Krebiz Claw Heavy Cruiser (PE)</name><set>PE</set></card>
+		<card><name id="T1_-_Small_Moon_PE">T1 Small Moon (PE)</name><set>PE</set></card>
+		<card><name id="T2_-_Biruks_Comet_PE">T2 Comet - Biruk&apos;s Comet (PE)</name><set>PE</set></card>
+		<card><name id="T2_-_Kalins_Small_Red_Nebula_PE">T2 Small Nebula - Kalin&apos;s Small Red Nebula (PE)</name><set>PE</set></card>
+		<card><name id="T3_-_Armory_Moon_PE">T3 Armory Moon (PE)</name><set>PE</set></card>
+		<card><name id="T3_-_Benakis_Asteroid_Belt_PE">T3 Asteroid Belt - Benakis Asteroid Belt (PE)</name><set>PE</set></card>
+		<card><name id="T3_-_Moon_PE">T3 Moon (PE)</name><set>PE</set></card>
+		<card><name id="T4_-_Small_Planet_-_Siobhan-7_PE">T4 Small Planet - Siobhan-7 (PE)</name><set>PE</set></card>
+		<card><name id="T4_-_Small_System_-_Rabuff_Locttoor_PE">T4 Small System - Rabuff Locttoor (PE)</name><set>PE</set></card>
+		<card><name id="T5_-_Small_System_-_Hcsuar-Drahcir_System_PE">T5 Small System - Hcsuar-Drahcir System (PE)</name><set>PE</set></card>
+	</superzone>
+</deck>

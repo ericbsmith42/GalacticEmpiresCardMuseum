@@ -1,0 +1,423 @@
+@font-face {
+    font-family: 'Insignia'; /*a name to be used later*/
+    src: url('Insignia.otf'); /*URL to font*/
+}
+
+.spacer {
+	background-image: url(../images/starfield.jpg);
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:250px;
+	background-color: #000000;
+	color:white;
+	z-index:0;
+}
+
+.sidenav {
+    position: fixed;
+    z-index: 1;
+    width: 140px;
+	height: 30px;
+    top: 0;
+    right: 0;
+	background-image: url("../images/starfield.jpg");
+	background-color: Black;
+    overflow-x: hidden;
+	overflow: hidden;
+	padding-left: 20px;
+	padding-right: 20px;
+	transition: 0.5s;
+	float: center;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+    border-radius: 30px;
+}
+
+.sidenav:hover {
+    width: 400px;
+	height: 100vh;
+    overflow-y: scroll;
+	transition: 0.5s;
+    border-radius: 200px;
+}
+
+.navIndex {
+	position: fixed;
+	text-align: center;
+	width: inherit;
+	height: 30px;
+	font-size: 1.5rem;
+	z-index: 2;
+	background-image: url("../images/starfield.jpg");
+	background-color: Black;
+	top: 0px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-weight: bold;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+    border-radius: 30px;
+}
+
+@media print
+{    
+    .noprint, .noprint *
+    {
+        display: none !important;
+    }
+}
+
+
+.clearfix {
+    float: left;
+	clear: both;
+}
+
+.sidenavtable {
+    z-index: 1;
+    overflow-x: hidden;
+	overflow: hidden;
+	padding: 5px 0;
+	padding-left: 20px;
+	padding-right: 20px;
+    border-radius: 30px;
+	transition: 0.5s;
+	float:center;
+	clear: both;
+	font-weight: bold;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+}
+
+.whitetable {
+	font-size: 1.5rem;
+	font-weight: bold;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #white;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: underline;
+    font-size: 1.5rem;
+	color: #00FFFF;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #FF0000;
+}
+
+@media screen and (max-width: 400px) {
+	.sidenav:hover {
+		width: 80vw;
+	}
+}
+
+
+
+.sidenavSpcl:hover {
+	height: 555px;
+    width: 325px;
+    overflow-y: scroll;
+	max-height: 100%;
+}
+
+.sidenavSpcl {
+    position: fixed;
+    z-index: 1;
+    width: 140px;
+	height: 25px;
+	top: 0;
+    right: 0;
+	background-image: url("../images/starfield.jpg");
+	background-color: Black;
+	margin: 0 auto;
+	font-size: 24px;
+	line-height:26px;
+	text-align: center;
+    overflow-x: hidden;
+	overflow: hidden;
+	padding: 0px 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition: 0.5s;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+    border-radius: 30px;
+}
+
+.sidenavSpcl a {
+    text-decoration: underline;
+    font-size: 1.4rem;
+	color: #00FFFF;
+}
+
+.sidenavSpcl a:hover {
+    color: #FF0000;
+}
+
+
+
+
+
+
+.sidenavIndirigan:hover {
+	height: 675px;
+    width: 225px;
+    overflow-y: scroll;
+	max-height: 100%;
+}
+
+.sidenavIndirigan {
+    position: fixed;
+    z-index: 1;
+    width: 150px;
+	height: 25px;
+	top: 0;
+    right: 0;
+	background-image: url("../images/starfield.jpg");
+	background-color: Black;
+	margin: 0 auto;
+	font-size: 24px;
+	line-height:26px;
+	text-align: center;
+    overflow-x: hidden;
+	overflow: hidden;
+	padding: 0px 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition: 0.5s;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+    border-radius: 30px;
+}
+
+.sidenavIndirigan a {
+    text-decoration: underline;
+    font-size: 1.4rem;
+	color: #00FFFF;
+}
+
+.sidenavIndirigan a:hover {
+    color: #FF0000;
+}
+
+
+
+
+ul.sidenavList {
+    margin-left: -60px;
+}
+
+
+
+.sidenavErrataX:hover {
+    width: 450px;
+    overflow-y: auto;
+	max-height: 100%;
+}
+
+.sidenavErrataX {
+    position: fixed;
+    z-index: 2;
+    width: 150px;
+	height: 25px;
+	top: 0;
+    right: 0;
+	background-image: url("../images/starfield.jpg");
+	background-color: Black;
+	margin: 0 auto;
+	font-size: 24px;
+	line-height:26px;
+	text-align: center;
+    overflow-x: hidden;
+	overflow: hidden;
+	padding: 0px 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition: 0.5s;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+.sidenavEntity:hover {
+	height: 100%;
+    width: 300px;
+    overflow-y: auto;
+	max-height: 100%;
+}
+
+.sidenavEntity {
+    position: fixed;
+    z-index: 1;
+    width: 150px;
+	height: 23px;
+	top: 0;
+    right: 0;
+	background-image: url("../images/starfield.jpg");
+	background-color: Black;
+	margin: 0 auto;
+	font-size: 24px;
+	line-height:26px;
+	text-align: center;
+    overflow-x: hidden;
+	overflow: hidden;
+	padding: 0px 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition: 0.5s;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+    border-radius: 30px;
+}
+
+.sidenavEntity a {
+    text-decoration: underline;
+    font-size: 1.4rem;
+	color: #00FFFF;
+}
+
+.sidenavEntity a:hover {
+    color: #FF0000;
+}
+
+
+
+
+
+.sidenavShips:hover {
+	height: calc(100% - 60px);
+    width: 300px;
+    overflow-y: auto;
+	max-height: 100%;
+}
+
+.sidenavShips {
+    position: fixed;
+    z-index: 1;
+    width: 150px;
+	height: 23px;
+	top: 0;
+    right: 0;
+	background-image: url("../images/starfield.jpg");
+	background-color: Black;
+	margin: 0 auto;
+	font-size: 24px;
+	line-height:26px;
+	text-align: center;
+    overflow-x: hidden;
+	overflow: hidden;
+	padding: 0px 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition: 0.5s;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+    border-radius: 30px;
+}
+
+.sidenavShips a {
+    text-decoration: underline;
+    font-size: 1.4rem;
+	color: #00FFFF;
+}
+
+.sidenavShips a:hover {
+    color: #FF0000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.navX {
+	position: fixed;
+	text-align: center;
+	width:inherit;
+	height: 35px;
+	font-size: 1.5rem;
+	z-index: 2;
+	background-image: url("../images/starfield.jpg");
+	background-color: Black;
+	top: 0px;
+	padding-top: 6px;
+	padding-bottom: 2px;
+	padding-right: 20px;
+	padding-left: 0px;
+	font-weight: bold;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+    border-radius: 30px;
+}
+
+.sidenavErrata:hover {
+	height: 100%;
+    width: 450px;
+    overflow-y: scroll;
+	max-height: 100%;
+}
+
+.sidenavErrata {
+    position: fixed;
+    z-index: 1;
+    width: 150px;
+	height: 23px;
+	top: 0;
+    right: 0;
+	background-image: url("../images/starfield.jpg");
+	background-color: Black;
+	margin: 0 auto;
+	font-size: 24px;
+	line-height:26px;
+	text-align: center;
+    overflow-x: hidden;
+	overflow: hidden;
+	padding: 0px 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	transition: 0.5s;
+	font-family: "Insignia", "Times New Roman", "Times", serif;
+	color: #00FFFF;
+    border-radius: 30px;
+}
+
+.sidenavErrata a {
+    text-decoration: underline;
+    font-size: 1.4rem;
+	color: #00FFFF;
+}
+
+.sidenavErrata a:hover {
+    color: #FF0000;
+}

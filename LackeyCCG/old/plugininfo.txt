@@ -1,0 +1,73 @@
+<plugin>
+<playerstat><label>Economy Produced</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Economy Required</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Energy Produced</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Energy Required</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Ammunition Produced</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Ammunition Required</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Supply Produced</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Supply Required</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Research Produced</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Repair/Healing Produced</label><initialvalue>0</initialvalue></playerstat>
+
+<deckzone><label>Deck</label><shuffle>yes</shuffle></deckzone>
+<deckzone><label>Reference</label></deckzone>
+<gamezone><label>Hand</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+<gamezone><label>Deck</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+<gamezone><label>Discard</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+<gamezone><label>Removed</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+<gamezone><label>Reserve Fleet</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+<gamezone><label>Reference</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+
+<phase><label>Point Allocation</label></phase>
+<phase><label>Engagement</label></phase>
+<phase><label>Play Cards A</label></phase>
+<phase><label>Weapons Fire</label></phase>
+<phase><label>Play Cards B</label></phase>
+<phase><label>Discard</label></phase>
+<phase><label>Draw</label></phase>
+
+<generalfunction><label>Ready All</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Exhaust All</label><kind>ALLYOURCARDSMAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction>
+	<label>Deplete Deck</label><kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner><sourcegamezone>Deck</sourcegamezone><sourceposition>top</sourceposition>
+	<destinationowner>performer</destinationowner><destinationgamezone>Discard</destinationgamezone><destinationposition>top</destinationposition>
+</generalfunction>
+<generalfunction><label>Roll d6</label><kind>ROLLD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Roll d10</label><kind>ROLLD10</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Roll d12</label><kind>ROLLD12</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind></generalfunction>
+
+<generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Next Phase</label><kind>NEXTPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Previous Turn</label><kind>PREVIOUSTURN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Next Turn</label><kind>NEXTTURN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+
+<cardfunction><label>Ready</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Exhaust</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Structure -1</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Structure +1</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.15</PositionX><PositionY>.94</PositionY></cardfunction>
+<cardfunction><label>Shield -1</label><kind>REMOVECOUNTER</kind><color>white</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Shield +1</label><kind>ADDCOUNTER</kind><color>white</color><includeasbutton>yes</includeasbutton><PositionX>.85</PositionX><PositionY>.94</PositionY></cardfunction>
+<cardfunction><label>Card Damage -1</label><kind>REMOVECOUNTER</kind><color>yellow</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Card Damage +1</label><kind>ADDCOUNTER</kind><color>yellow</color><includeasbutton>yes</includeasbutton><PositionX>.15</PositionX><PositionY>.50</PositionY></cardfunction>
+<cardfunction><label>Turn -1</label><kind>REMOVECOUNTER</kind><color>violet</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Turn +1</label><kind>ADDCOUNTER</kind><color>violet</color><includeasbutton>yes</includeasbutton><PositionX>.85</PositionX><PositionY>.50</PositionY></cardfunction>
+
+<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+<cardfunction><label>Flip Card</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Doesn't Flip</label><kind>TOGGLETURNALLIMMUNITY</kind></cardfunction>
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind></cardfunction>
+<cardfunction><label>Hover</label><kind>HOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Clone</label><kind>CLONE</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind><value>yes</value></definition>
+<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind><value>yes</value></definition>
+<definition><kind>NUMDIGITSINSTAT</kind><value>6</value></definition>
+
+<definition><kind>RULEBOOKFILE</kind><value>GERulebookV2.0.pdf</value></definition>
+
+</plugin>
